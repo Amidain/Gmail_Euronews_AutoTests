@@ -15,4 +15,5 @@ Project is created with:
 
 ## Resources
 https://www.euronews.com/
+
 https://developers.google.com/gmail/api/guides
